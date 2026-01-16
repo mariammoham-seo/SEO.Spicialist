@@ -1,5 +1,5 @@
 <h2 align="center">
-  👋 Hi, I'm Mariam Mohamed
+  👋 Hi, I'm Mariam Mohamed <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </h2>
 
 <p align="center">
@@ -7,11 +7,12 @@
 </p>
 
 <p align="center">
-  📧 mariam.email@example.com <br/>
-  💼 <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
+  📧 eng.mariammohamed@gmail.com <br/>
+  💼 <a href="https://www.linkedin.com/in/mariammohamed69/">LinkedIn</a>
 </p>
 
----
+<img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260">
+
 
 ### 👩‍💻 About Me
 
