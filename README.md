@@ -1,4 +1,4 @@
-I'm Mariam Mariam
+I'm Mariam Mohamed
 
 SEO Specialist interested in content optimization, keyword research, and technical SEO basics.
 
