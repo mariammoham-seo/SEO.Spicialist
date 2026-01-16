@@ -1,5 +1,5 @@
 <h2 align="center">
-  👋 Hi, I'm Mariam Mohamed <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  👋 Hi, I'm Mariam Elgamizy <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </h2>
 
 <p align="center">
